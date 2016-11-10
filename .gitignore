@@ -1,0 +1,37 @@
+# Heroku
+staticfiles
+.env
+
+# Database
+db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS X
+.DS_Store
+
+# Sphinx documentation
+docs/_build/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+
+# Text editor
+*~
